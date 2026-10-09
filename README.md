@@ -1,24 +1,25 @@
-# 👋 Hi, I'm [Your Name]
+# Hi there, I'm [Your Name] 👋
 
-### Junior Android Developer | Kotlin • Jetpack Compose • MVVM
+### Android Developer | Software Developer | QA Manual Tester
 
-I'm a recent Programming graduate from **UCES (December 2024)** with a strong interest in Android development, software architecture, and building intuitive, reliable mobile applications.
+I'm a software developer with professional experience in **Android and Web Development**, passionate about building reliable, maintainable, and user-focused applications.
 
-My main focus is **Android development with Kotlin and Jetpack Compose**. I'm currently strengthening my knowledge of modern Android technologies while expanding my skills in Python, databases, backend development, and software quality assurance.
+I graduated from **UCES in December 2024** and have professional experience developing Android applications and web solutions. My background combines mobile development, database management, web technologies, and software testing.
+
+I'm continuously expanding my knowledge of modern development tools and best practices, with a current focus on Python, Kotlin, and Jetpack Compose.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Programming graduate from UCES, December 2024.
-- 📱 Focused on Android development using Kotlin and Jetpack Compose.
-- 🏗️ Learning and applying concepts such as MVVM, ViewModel, StateFlow, and Dependency Injection.
-- 🗄️ Academic experience designing a PostgreSQL database project for a hospital.
-- 🧪 Completed 87 hours of Manual QA training through Coderhouse and UTNBA, complemented by personal projects and practical exercises.
-- 📚 Currently expanding my skills through courses in Python, Kotlin, and Jetpack Compose.
-- 🧠 Two years of Systems Engineering studies at UTN, including statistics, logic, and data analysis.
+- 📱 **Android Development:** 2 years of professional experience developing Android applications.
+- 🌐 **Web Development:** 1 year of professional experience building web solutions.
+- 🧪 **Quality Assurance:** Training in Manual QA Testing, supported by two specialized courses.
+- 🎓 **Education:** Programming graduate from UCES, with two years of Systems Engineering studies at UTN.
+- 📚 **Currently learning:** Python, Kotlin, and Jetpack Compose.
+- 🌍 **Languages:** Spanish (Native) · English (B2).
 
-My goal is to continue growing as an Android developer, contribute to collaborative development teams, and build maintainable applications with a strong focus on functionality and user experience.
+I enjoy solving problems, learning new technologies, and contributing to projects where code quality, usability, and continuous improvement matter.
 
 ---
 
@@ -27,110 +28,177 @@ My goal is to continue growing as an Android developer, contribute to collaborat
 ### 📱 Android Development
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-**Technologies & Concepts**
+**Concepts & Architecture**
 
-- Kotlin and Android development
-- Jetpack Compose and UI/UX principles
-- MVVM architecture
+- MVVM Architecture
 - ViewModel and StateFlow
-- Room and local data persistence
-- Retrofit and RESTful API integration
-- Firebase and Cloud Firestore
-- Hilt and Dependency Injection
-- Gradle and project configuration
+- Dependency Injection
+- RESTful API Integration
+- Local Persistence with Room
+- Firebase Integration
+- UI/UX Principles
 - Unit Testing
 
 ### 💻 Programming Languages
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend Development
-
-- RESTful API concepts and integration
-- HTTP communication and JSON
-- SQL and relational databases
 
 ### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+- Responsive Web Development
+- RESTful APIs
+- Website Management
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🧪 QA & Manual Software Testing
 
-### 🧪 QA & Manual Testing
+My QA training covers different testing types and techniques, including:
 
-**Testing Types & Techniques**
+- **Functional Testing**
+- **Smoke Testing**
+- **Sanity Testing**
+- **Regression Testing**
+- **Retesting**
+- **Integration Testing**
+- **System Testing**
+- **User Acceptance Testing (UAT)**
+- **Exploratory Testing**
+- **Ad-hoc Testing**
+- **Usability Testing**
+- **UI Testing**
+- **Compatibility Testing**
+- **Cross-browser Testing**
+- **Cross-device Testing**
+- **Installation Testing**
+- **Accessibility Testing**
 
-- Functional Testing
-- Smoke Testing
-- Regression Testing
-- Integration Testing
-- System Testing
-- User Acceptance Testing (UAT)
-- Exploratory Testing
-- Usability Testing
-- UI Testing
-- Compatibility Testing
-- Error Handling Testing
-
-**QA Fundamentals**
-
-Test case design, test scenarios, test execution, bug reporting, defect documentation, and test result analysis.
-
-### 🔧 Tools & Productivity
+### 🔧 Tools & Other Skills
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-
-## 🎓 Education & Training
-
-**UCES — Programming**  
-Graduated December 2024.
-
-**UTN — Systems Engineering**  
-Two years of studies, including statistics, logic, and data analysis.
-
-**Coderhouse — Manual QA Testing**  
-50-hour course.
-
-**UTNBA — Manual QA Testing**  
-37-hour course.
-
-**Currently Studying**
-- Python Mega-Course
-- Kotlin 2027 Appcademy
-- Android development with Jetpack Compose Appcademy
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🌍 Languages
+## 💼 Professional Experience
 
-- 🇪🇸 Spanish — Native
-- 🇬🇧 English — B2 (Upper-Intermediate)
+### Android Developer — AAG
+
+**2 years of professional experience**
+
+- Developed Android applications using Kotlin and modern Android development technologies.
+- Worked with Jetpack Compose, MVVM, ViewModel, and StateFlow.
+- Integrated RESTful APIs using Retrofit.
+- Implemented local persistence with Room and backend services with Firebase.
+- Applied dependency injection using Hilt.
+- Worked with SQL databases and development tools such as Git, GitHub, and Gradle.
+- Focused on application architecture, maintainability, and user experience.
+
+### Android Developer — OceanMasterSL
+
+**2 years of Android development experience across professional roles**
+
+- Contributed to Android application development using Kotlin and modern Android technologies.
+- Worked with UI development, application architecture, API integration, and data persistence.
+- Used the Android development ecosystem and related tools to support application development.
+
+### Web Developer — emestudio
+
+**1 year of professional experience**
+
+- Developed and maintained websites using HTML, CSS, JavaScript, and WordPress.
+- Worked with web-related technologies and Cloudflare.
+- Contributed to website implementation and maintenance.
 
 ---
 
-## 📫 Let's Connect
+## 🌟 Featured Projects
 
-I'm open to learning opportunities, collaboration, and opportunities to grow as an Android developer.
+### 1. [Project Name]
 
-- 💼 LinkedIn: [[Add your LinkedIn URL]](https://www.linkedin.com/in/lucas-marginet/)
-- ✉️ Email: lucasmarginetntick@gmail.com
+**Technologies:** [Kotlin · Jetpack Compose · Room · Retrofit · Firebase]
 
+[Write a short description of the project, the problem it solves, and your contribution.]
+
+- **Key features:** [Feature 1, Feature 2, Feature 3]
+- **What I learned:** [Architecture, API integration, testing, or another relevant skill]
+
+[View Repository](YOUR_REPOSITORY_URL)
+
+### 2. [Project Name]
+
+**Technologies:** [PostgreSQL · SQL · Python · or other project technologies]
+
+[Write a short description of the project, its purpose, and the main technical challenges.]
+
+- **Key features:** [Feature 1, Feature 2, Feature 3]
+- **What I learned:** [Relevant technical skills or project outcomes]
+
+[View Repository](YOUR_REPOSITORY_URL)
+
+---
+
+## 🎓 Education & Certifications
+
+### UCES — University Programming Degree
+**Graduated: December 2024**
+
+Completed a university programming program focused on software development and technical problem-solving.
+
+### UTN — Systems Engineering
+**Two years of university studies**
+
+Studied subjects including statistics, discrete mathematics, logical reasoning, and data analysis.
+
+### Manual QA Testing — Coderhouse
+**50 hours**
+
+Specialized training in manual software testing.
+
+### Manual QA Testing — UTNBA
+**37 hours**
+
+Additional training in software quality assurance and manual testing.
+
+---
+
+## 📚 Currently Learning
+
+- **Python:** Expanding my programming knowledge and exploring new development possibilities.
+- **Kotlin:** Deepening my understanding of the language and its ecosystem.
+- **Jetpack Compose:** Improving my skills in modern, declarative Android UI development.
+
+I'm committed to continuous learning and applying new concepts to practical projects.
+
+---
+
+## 🌎 Languages
+
+- 🇦🇷 **Spanish:** Native
+- 🇬🇧 **English:** B2 — Upper-intermediate
+
+---
+
+*Always learning, building, and improving.* 🚀
