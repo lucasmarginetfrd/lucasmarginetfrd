@@ -1,12 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Lucas Alejandro Marginet Campos] 👋
 
 ### Android Developer | Software Developer | QA Manual Tester
 
 I'm a software developer with professional experience in **Android and Web Development**, passionate about building reliable, maintainable, and user-focused applications.
 
 I graduated from **UCES in December 2024** and have professional experience developing Android applications and web solutions. My background combines mobile development, database management, web technologies, and software testing.
-
-I'm continuously expanding my knowledge of modern development tools and best practices, with a current focus on Python, Kotlin, and Jetpack Compose.
 
 ---
 
@@ -16,10 +14,7 @@ I'm continuously expanding my knowledge of modern development tools and best pra
 - 🌐 **Web Development:** 1 year of professional experience building web solutions.
 - 🧪 **Quality Assurance:** Training in Manual QA Testing, supported by two specialized courses.
 - 🎓 **Education:** Programming graduate from UCES, with two years of Systems Engineering studies at UTN.
-- 📚 **Currently learning:** Python, Kotlin, and Jetpack Compose.
 - 🌍 **Languages:** Spanish (Native) · English (B2).
-
-I enjoy solving problems, learning new technologies, and contributing to projects where code quality, usability, and continuous improvement matter.
 
 ---
 
@@ -77,21 +72,14 @@ My QA training covers different testing types and techniques, including:
 
 - **Functional Testing**
 - **Smoke Testing**
-- **Sanity Testing**
 - **Regression Testing**
-- **Retesting**
 - **Integration Testing**
 - **System Testing**
 - **User Acceptance Testing (UAT)**
 - **Exploratory Testing**
-- **Ad-hoc Testing**
 - **Usability Testing**
 - **UI Testing**
 - **Compatibility Testing**
-- **Cross-browser Testing**
-- **Cross-device Testing**
-- **Installation Testing**
-- **Accessibility Testing**
 
 ### 🔧 Tools & Other Skills
 
@@ -104,9 +92,9 @@ My QA training covers different testing types and techniques, including:
 
 ## 💼 Professional Experience
 
-### Android Developer — AAG
+**2 years of Android development experience across professional roles**
 
-**2 years of professional experience**
+### Android Developer — AAG
 
 - Developed Android applications using Kotlin and modern Android development technologies.
 - Worked with Jetpack Compose, MVVM, ViewModel, and StateFlow.
@@ -117,8 +105,6 @@ My QA training covers different testing types and techniques, including:
 - Focused on application architecture, maintainability, and user experience.
 
 ### Android Developer — OceanMasterSL
-
-**2 years of Android development experience across professional roles**
 
 - Contributed to Android application development using Kotlin and modern Android technologies.
 - Worked with UI development, application architecture, API integration, and data persistence.
@@ -131,32 +117,6 @@ My QA training covers different testing types and techniques, including:
 - Developed and maintained websites using HTML, CSS, JavaScript, and WordPress.
 - Worked with web-related technologies and Cloudflare.
 - Contributed to website implementation and maintenance.
-
----
-
-## 🌟 Featured Projects
-
-### 1. [Project Name]
-
-**Technologies:** [Kotlin · Jetpack Compose · Room · Retrofit · Firebase]
-
-[Write a short description of the project, the problem it solves, and your contribution.]
-
-- **Key features:** [Feature 1, Feature 2, Feature 3]
-- **What I learned:** [Architecture, API integration, testing, or another relevant skill]
-
-[View Repository](YOUR_REPOSITORY_URL)
-
-### 2. [Project Name]
-
-**Technologies:** [PostgreSQL · SQL · Python · or other project technologies]
-
-[Write a short description of the project, its purpose, and the main technical challenges.]
-
-- **Key features:** [Feature 1, Feature 2, Feature 3]
-- **What I learned:** [Relevant technical skills or project outcomes]
-
-[View Repository](YOUR_REPOSITORY_URL)
 
 ---
 
@@ -186,9 +146,9 @@ Additional training in software quality assurance and manual testing.
 
 ## 📚 Currently Learning
 
-- **Python:** Expanding my programming knowledge and exploring new development possibilities.
-- **Kotlin:** Deepening my understanding of the language and its ecosystem.
-- **Jetpack Compose:** Improving my skills in modern, declarative Android UI development.
+- **Python Megacourse:** Expanding my programming knowledge and exploring new development possibilities. 
+- **Kotlin 2027 - Appcademy:** Deepening my understanding of the language and its ecosystem.
+- **Jetpack Compose - Appcademy:** Improving my skills in modern, declarative Android UI development.
 
 I'm committed to continuous learning and applying new concepts to practical projects.
 
@@ -199,6 +159,3 @@ I'm committed to continuous learning and applying new concepts to practical proj
 - 🇦🇷 **Spanish:** Native
 - 🇬🇧 **English:** B2 — Upper-intermediate
 
----
-
-*Always learning, building, and improving.* 🚀
